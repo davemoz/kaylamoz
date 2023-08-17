@@ -9,20 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "13.4.1",
-    "qs": "^6.11.1",
+    "next": "13.4.17",
+    "qs": "^6.11.2",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@svgr/webpack": "^8.0.1",
-    "@types/node": "20.1.2",
+    "@svgr/webpack": "^8.1.0",
+    "@types/node": "20.5.0",
     "@types/qs": "^6.9.7",
-    "@types/react": "18.2.6",
-    "@types/react-dom": "18.2.4",
-    "eslint": "8.39.0",
-    "eslint-config-next": "13.4.1",
-    "sass": "^1.62.1",
-    "typescript": "5.0.4"
+    "@types/react": "18.2.20",
+    "@types/react-dom": "18.2.7",
+    "eslint": "8.47.0",
+    "eslint-config-next": "13.4.17",
+    "sass": "^1.65.1",
+    "typescript": "5.1.6"
   }
 }
